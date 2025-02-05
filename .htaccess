@@ -1,0 +1,12 @@
+SetEnv DB_NAME appliedit_prueba
+SetEnv DB_HOST localhost
+SetEnv DB_USER root
+SetEnv DB_PASSWORD 
+SetEnv SERVER appliedit
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+</IfModule>
