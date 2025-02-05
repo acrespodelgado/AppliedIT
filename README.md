@@ -1,5 +1,7 @@
 # Prueba Tecnica PHP:
 
+NOTA 9.5/10
+
 Le damos la bienvenida a la prueba técnica para el puesto de trabajo en AppliedIT. La prueba consiste en desarrollar un dashboard y una funcionalidad para añadir compañías en base al mockup proporcionado en Figma y los assets correspondientes.
 
 Desde AppliedIT respetamos y valoramos el tiempo de nuestros candidatos. Por tanto el tiempo estimado para la realización y entrega de la prueba sera de una semana natural.
